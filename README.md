@@ -1,2 +1,2 @@
 # FlaskProje
-Üniversite 2. sınıf web programlama projesi
+Üniversite 2. sınıf flask kullnarak web programlama projesi
